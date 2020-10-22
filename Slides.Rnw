@@ -1,0 +1,62 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+
+
+%Information to be included in the title page:
+\title{STAT 850 - Assignment 10}
+\subtitle{A short story}
+\author{Yutong Liu}
+\institute
+{Food Science\\
+  University of Nebraska-Lincoln}
+\date{2020.10.21}
+
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{Introduction}
+My Birthday is February 7th, which is \alert{Chinese New Year} in my born year.
+\begin{block}{where I grew up}
+I grew up in China and finish my first three years of bachelor's degree in China. And then I went to American to finish my fourth year and continue studying.
+\end{block}
+
+\begin{block}{what program I'm in}
+I am working in the Food Science department, focusing on food processing.
+\end{block}
+
+\begin{block}{when I expect to graduate}
+Hopefully, I plan to graduate next May. 
+\end{block}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Favorite animal}
+\begin{figure}[h]
+\centering
+\includegraphics[width=.5\textwidth]{../10-presentation-yutongliu27/dog.jpg}
+\caption{Favorite dog --- French Bulldog}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Favorite plot}
+
+<<>>=
+plot(cars)
+@
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Link to CV}
+
+\end{frame}
+
+\end{document}
