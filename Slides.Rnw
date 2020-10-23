@@ -14,7 +14,6 @@
 
 
 \begin{document}
-\SweaveOpts{concordance=TRUE}
 
 \frame{\titlepage}
 
@@ -30,7 +29,7 @@ I am working in the Food Science department, focusing on food processing.
 \end{block}
 
 \begin{block}{when I expect to graduate}
-Hopefully, I plan to graduate next May. 
+Hopefully, I plan to graduate next May.
 \end{block}
 
 \end{frame}
@@ -48,7 +47,7 @@ Hopefully, I plan to graduate next May.
 \begin{frame}
 \frametitle{Favorite plot}
 
-<<>>=
+<<plot, echo = F, fig.show = 'asis', fig.width = 8, fig.height = 4, out.width = "\\textwidth", fig.cap = "Here's a caption", dev = "png">>=
 plot(cars)
 @
 
