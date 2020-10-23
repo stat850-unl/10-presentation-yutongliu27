@@ -13,6 +13,6 @@ Here are the files for Assignment-10:
 
 -[A slidy presentation using a md file](markdown.html)
 
--[CV](CV.html)
+-[CV](CV.pdf)
 
 
