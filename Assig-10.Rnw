@@ -1,0 +1,63 @@
+\documentclass[12pt,t]{beamer}
+\title{STAT 850 - Assignment 10}
+\subtitle{A short story}
+\author{Yutong Liu}
+\institute
+{Food Science\\
+  University of Nebraska-Lincoln}
+\date{2020.10.21}
+
+\begin{document}
+{
+\setbeamertemplate{footline}{} % no slide number here
+\frame{\titlepage}
+}
+\begin{frame}
+\frametitle{Introduction}
+My Birthday is February 7th, which is \alert{Chinese New Year} in my born year.
+\begin{block}{Where I grew up}
+I grew up in China and finish my first three years of bachelor's degree in China. And then I went to American to finish my fourth year and continue studying.
+\end{block}
+
+\begin{block}{What program I'm in}
+I am working in the Food Science department, focusing on food processing.
+\end{block}
+
+\begin{block}{When I expect to graduate}
+Hopefully, I plan to graduate next May.
+\end{block}
+
+\end{frame}
+
+\begin{frame}{Favorite animal}
+\begin{figure}[h]
+\centering
+\includegraphics[width=.5\textwidth]{figure/dog.jpg}
+\caption{Favorite dog --- French Bulldog}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]{Favorite plot}
+
+<<knitr_options, echo=F, include=F>>=
+library(knitr)
+opts_chunk$set(echo=F,message=F,fig.align='center')
+@
+<<plot1,fig.width=10,fig.height=10,out.width= '.60\\linewidth'>>=
+par(las=1)
+n <- 100
+x <- rnorm(n)
+y <- 2*x + rnorm(n)
+plot(x, y, pch=16, col="slateblue")
+@
+This is the scatterplot, x is 100 points that followed normal distribution and $y=2*x+x$.
+\end{frame}
+
+\begin{frame}
+\frametitle{Link to CV}
+Author Details: Student of M. Food Science (2019-2021)\\Advisor: Dr. Xu\\
+Institute:University of Nebraska-Lincoln\\This is a brief Slidy Presentation document on R Markdown. For more details you can click on the following link \url{https://stat850-unl.github.io/10-presentation-yutongliu27/CV.pdf} to find the CV of Author.
+
+\end{frame}
+
+\end{document}

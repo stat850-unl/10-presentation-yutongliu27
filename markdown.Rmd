@@ -25,7 +25,7 @@ library("viridis")
 - Hopefully, I plan to graduate next May. 
 
 ## Favorite animal
-<img src="../10-presentation-yutongliu27/dog.jpg" width="800" height="600" align="center" />
+<img src="figure/dog.jpg" width="800" height="600" align="center" />
 <center style="font-size:35px;color:#C0C0C0;text-decoration:underline"> Fig 1. French Bulldog </center> 
 
 
