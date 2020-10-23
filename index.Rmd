@@ -1,0 +1,18 @@
+---
+title: "About me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here are the files for Assignment-10:
+
+-[A LaTeX based slide deck](Assig-10.pdf)
+
+-[A slidy presentation using a md file](markdown.html)
+
+-[CV](CV.html)
+
+

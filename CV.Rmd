@@ -1,0 +1,211 @@
+---
+title: "Yutong Liu's resume"
+author: Yutong Liu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Yutong Liu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> yutong.liu@huskers.unl.edu
+- <i class="fa fa-phone"></i> +1 531-218-4592
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Language: Native in Mandarin, Fluent in English (GRE:311+3; TOEFL: Speaking: 24, Writing:24)
+
+- Professional Certificates: National Computer Rank Examination Certificate (Grade 2)
+
+- Computer Skills: Office software: Word, Excel, PowerPoint; Programming languages SAS, R; Software platform: Github; Document typesetting: LaTex.
+
+- Lab Skills: Gas chromatography, Headspace-SPME-GC, Electrophoresis, Desktop high-speed centrifuge, UV-visible spectrophotometer, Texture analysis etc. 
+
+Main
+================================================================================
+
+Yutong Liu {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a job position
+
+Please note that this is a *real* resume, and I'm really looking for a job 
+position at the moment. If you are interested in my background and skills, please feel free to contact me.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Northwest Agriculture and Forestry University                                                                                 
+
+Food Science and Technology, Bachelor 
+
+Shaan Xi, China
+
+2015-2018
+
+GPA: 3.76/4.0 Ranking: 2/55
+
+### University of Nebraska-Lincoln                                                                                                
+
+Food Science and Technology, Bachelor 
+
+Lincoln, NE, the United States
+
+2018-2019
+
+GPA: 3.534/40                                                                  
+
+### University of Nebraska-Lincoln                                                                                                                                                                              
+Major: Food Science and Technology, Master                                                                                      
+Minor: Statistics, Master
+
+Lincoln, NE, the United States
+
+2019-Present
+
+Courses {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Food Science and Technology, Major:
+
+N/A
+
+N/A
+
+N/A
+
+- Human Nutrition& Metabolism (A+)  
+- Food Machinery and Equipment Design (A+)
+- Sensory Evaluation (A-) 
+- Advanced Food Analysis(A)
+
+
+### Statistics, Minor:
+
+N/A
+
+N/A
+
+N/A
+
+- Statistic Methods Research(A+)
+- Design and Analysis of Research Studies
+- Computing Tools for Statisticians
+- Multiple Regression Analysis
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Undergraduate Research Assistant
+
+Northwest Agriculture and Forestry University, Food Science and Technology
+
+Shaan Xi, China
+
+2017
+
+- The Role of Trans-Cinnamic Aldehyde and its Effect on Vibrio Parahaemolyticus.
+
+### Graduate Research Assistant
+
+University of Nebraska-Lincoln, Food Science and Technology
+
+Lincoln, NE, the United States
+
+2019-2020
+
+- Development of a Blended Model based on Aroma Profiles: An Artificial Intelligence Application to Match the Flavor of Target Proprietary Hops.                                                                                                              
+
+Extracurriculun Acivities {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Ministry of Sports Department, member
+
+Northwest A&F University
+
+Shaan Xi, China
+
+2016
+
+### Volunteer
+
+China Yanling Agricultural Hi-Tech Fair (CAF)
+
+Shaan Xi, China
+
+2016
+
+### Volunteer
+
+Yangling International Marathon
+
+Shaan Xi, China
+
+2016
+
+### Debate Team Member 
+
+Food Science and Engineering Department
+
+Shaan Xi, China
+
+2016-2018
+
+### Teaching Assistant (Fruit & Vegetable Technology) 
+
+Food Science and Engineering Department
+
+Lincoln, NE, the United States
+
+2020
+
+Honors & Awards  {data-icon=file}
+--------------------------------------------------------------------------------
+
+### National Scholarship.
+
+Ministry of Education of the People’s Republic of China
+
+N/A
+
+2015-2017
+
+### Excellent Student Award.
+
+Northwest A&F University
+
+N/A
+
+2016-2017
+
+### First Prize, Research Poster Project.
+
+Northwest A&F University 
+
+N/A
+
+2017
+
+### First Prize, Speech Contest.
+
+Northwest A&F University Youth Corps Committee                                                 
+
+N/A
+
+2016
