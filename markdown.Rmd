@@ -1,0 +1,49 @@
+---
+title: "Stat 850-Assignment 10"
+subtitle: "A short story"
+author: "Yutong Liu"
+institute: "Food Science-University of Nebraska-Lincoln"
+date: "10/22/2020"
+output: 
+  slidy_presentation:
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library("viridis")
+```
+
+
+## Introduction
+
+- My Birthday is February 7th, which is Chinese New Year in my born year.
+- I grew up in China and finish my first three years of bachelor's degree in China. And then I went to American to finish my fourth year and continue studying.
+- I am working in the Food Science department, focusing on food processing.
+- Hopefully, I plan to graduate next May. 
+
+## Favorite animal
+<img src="../10-presentation-yutongliu27/dog.jpg" width="800" height="600" align="center" />
+<center style="font-size:35px;color:#C0C0C0;text-decoration:underline"> Fig 1. French Bulldog </center> 
+
+
+## Favorite plot
+
+```{r, fig.align="center", fig.width=6, fig.height=6, fig.cap="Fig 2. Scatterplot --- y=2*x + x"}
+par(las=1)
+n <- 100
+x <- rnorm(n)
+y <- 2*x + rnorm(n)
+plot(x, y, pch=16, col="slateblue")
+```
+- This is the scatterplot, x is 100 points that followed normal distribution and y equals 2*x + x.
+
+## Link to CV
+
+- Author Details : Student of M. Food Science (2019-2021)
+- Advisor : Dr. Xu
+- Institute : University of Nebraska-Lincoln
+
+This is a brief Slidy Presentation document on R Markdown. For more details you can click on the following [link] (https://stat850-unl.github.io/10-presentation-yutongliu27/CV.pdf) to find the CV of Author.
