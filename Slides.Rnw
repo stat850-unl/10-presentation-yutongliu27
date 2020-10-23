@@ -44,7 +44,7 @@ Hopefully, I plan to graduate next May.
 
 \end{frame}
 
-\begin{frame}
+\begin{frame}[fragile]
 \frametitle{Favorite plot}
 
 <<plot, echo = F, fig.show = 'asis', fig.width = 8, fig.height = 4, out.width = "\\textwidth", fig.cap = "Here's a caption", dev = "png">>=
